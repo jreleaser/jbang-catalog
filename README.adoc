@@ -1,0 +1,8 @@
+= A JBang catalog for JReleaser
+
+Enables running link:https://github.com/jreleaser/jreleaser[JReleaser] via link:https://github.com/jbangdev/jbang[jbang].
+
+[source]
+----
+$ jbang jreleaser@jreleaser --help
+----
