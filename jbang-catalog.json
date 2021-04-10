@@ -3,6 +3,10 @@
     "jreleaser" : {
       "script-ref" : "jreleaser.java",
       "description" : "Release Java projects quickly and easily with JReleaser"
+    },
+    "jreleaser-snapshot" : {
+      "script-ref" : "jreleaser_snapshot.java",
+      "description" : "Release Java projects quickly and easily with JReleaser"
     }
   }
 }
