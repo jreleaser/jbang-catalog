@@ -1,10 +1,9 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
-//JAVA 11
-//REPOS jitpack
-//DEPS com.github.jreleaser.jreleaser:jreleaser:early-access
+//JAVA 8
+//DEPS org.jreleaser:jreleaser:0.1.0
 
 public class jreleaser {
     public static void main(String... args) throws Exception {
-        org.jreleaser.cli.Main.main(args);
+        .main(args);
     }
 }

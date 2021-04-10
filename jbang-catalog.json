@@ -1,8 +1,8 @@
 {
-  "aliases": {
-    "jreleaser": {
-      "script-ref": "jreleaser.java",
-      "description": "Release Java projects quickly and easily with JReleaser"
+  "aliases" : {
+    "jreleaser" : {
+      "script-ref" : "jreleaser.java",
+      "description" : "Release Java projects quickly and easily with JReleaser"
     }
   }
 }
