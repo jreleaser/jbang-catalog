@@ -3,6 +3,14 @@
 Enables running link:https://github.com/jreleaser/jreleaser[JReleaser] via link:https://github.com/jbangdev/jbang[jbang].
 
 [source]
+.stable
 ----
-$ jbang jreleaser@jreleaser --help
+// Download, cache, and run
+jbang jreleaser@jreleaser <command> [<args>]
+----
+[source]
+.early-access
+----
+// Download, cache, and run
+jbang jreleaser-snapshot@jreleaser <command> [<args>]
 ----
