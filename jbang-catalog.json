@@ -6,7 +6,7 @@
     },
     "jreleaser-snapshot" : {
       "script-ref" : "jreleaser_snapshot.java",
-      "description" : "Release Java projects quickly and easily with JReleaser"
+      "description" : "Release projects quickly and easily with JReleaser"
     }
   }
 }

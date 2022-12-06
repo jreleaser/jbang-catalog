@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//REPOS jitpack
-//DEPS com.github.jreleaser.jreleaser:jreleaser:main-SNAPSHOT
+//DEPS com.github.jreleaser.jreleaser:jreleaser:1.4.0-SNAPSHOT
+// Generated with JReleaser 1.4.0-SNAPSHOT at 2022-12-06T11:23:52.422047383Z
 
 public class jreleaser_snapshot {
     public static void main(String... args) throws Exception {
