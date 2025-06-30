@@ -1,7 +1,7 @@
 //usr/bin/env jbang "$0" "$@" ; exit $?
 //JAVA 8+
-//DEPS org.jreleaser:jreleaser:1.18.0
-// Generated with JReleaser 1.18.0-SNAPSHOT at 2025-04-30T09:23:20.225786408Z
+//DEPS org.jreleaser:jreleaser:1.19.0
+// Generated with JReleaser 1.19.0-SNAPSHOT at 2025-06-30T19:01:50.059412808Z
 
 public class jreleaser {
     public static void main(String... args) throws Exception {
