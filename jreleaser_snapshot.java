@@ -2,7 +2,7 @@
 //JAVA 8+
 //REPOS jitpack
 //DEPS com.github.jreleaser.jreleaser:jreleaser:main-SNAPSHOT
-// Generated with JReleaser 1.23.0-SNAPSHOT at 2026-02-26T16:44:26.46823212Z
+// Generated with JReleaser 1.23.0-SNAPSHOT at 2026-02-27T12:43:02.14351646Z
 
 public class jreleaser_snapshot {
     public static void main(String... args) throws Exception {
